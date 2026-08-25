@@ -1,0 +1,868 @@
+{
+  "id": "relatorio_20260819_101050",
+  "momento": "2026-08-19T10:10:50",
+  "momento_legivel": "19/08/2026 às 10:10",
+  "pacote": "CONTRATOS _2027-20260818T130350Z-1-001.zip",
+  "exercicio": 2027,
+  "total_contratos": 413,
+  "secretarias_com_dados": 20,
+  "secretarias_sem_dados": [
+    "FUNCULTURAL",
+    "SMPDC"
+  ],
+  "diagnostico": {
+    "exercicio": 2027,
+    "total_contratos": 413,
+    "secretarias": [
+      "ARDP",
+      "CGM",
+      "CME",
+      "PGM",
+      "SECOM",
+      "SEINFRA",
+      "SEMA",
+      "SEMAD",
+      "SEMAGRIC",
+      "SEMDEC",
+      "SEMEC",
+      "SEMED",
+      "SEMIAS",
+      "SEMTEL",
+      "SEMTRAN",
+      "SEMUSA",
+      "SGOV",
+      "SMCL",
+      "SMD",
+      "SMTI"
+    ],
+    "secretarias_sem_dados": [
+      "FUNCULTURAL",
+      "SMPDC"
+    ],
+    "por_planilha": [
+      {
+        "secretaria": "ARDP",
+        "arquivo": "ARDP_Controle_Contratos_2027.xlsx",
+        "caminho": "CONTRATOS _2027/ARDP_Controle_Contratos_2027.xlsx",
+        "ano_arquivo": 2027,
+        "origem": "aba 'Base de Dados'",
+        "abas": [
+          "Instruções",
+          "2027",
+          "Pretensões 2027",
+          "Base de Dados",
+          "MODELO_FICHA",
+          "Listas",
+          "C01"
+        ],
+        "tentativas": [
+          {
+            "aba": "Base de Dados",
+            "modo": "nativo",
+            "contratos": 2
+          }
+        ],
+        "contratos": 2,
+        "motivo": null,
+        "detalhe": {
+          "linhas_com_conteudo": 5,
+          "rejeitadas": {
+            "sem_contratada": 3,
+            "sem_objeto": 0,
+            "vazias": 992
+          }
+        }
+      },
+      {
+        "secretaria": "CGM",
+        "arquivo": "CGM_Controle_Contratos_2027.xlsx",
+        "caminho": "CONTRATOS _2027/CGM_Controle_Contratos_2027.xlsx",
+        "ano_arquivo": 2027,
+        "origem": "aba 'Base de Dados'",
+        "abas": [
+          "Instruções",
+          "2027",
+          "Pretensões 2027",
+          "Base de Dados",
+          "MODELO_FICHA",
+          "Listas",
+          "C01"
+        ],
+        "tentativas": [
+          {
+            "aba": "Base de Dados",
+            "modo": "nativo",
+            "contratos": 1
+          }
+        ],
+        "contratos": 1,
+        "motivo": null,
+        "detalhe": {
+          "linhas_com_conteudo": 4,
+          "rejeitadas": {
+            "sem_contratada": 3,
+            "sem_objeto": 0,
+            "vazias": 993
+          }
+        }
+      },
+      {
+        "secretaria": "CME",
+        "arquivo": "CME_Controle_Contratos_2027.xlsx",
+        "caminho": "CONTRATOS _2027/CME_Controle_Contratos_2027.xlsx",
+        "ano_arquivo": 2027,
+        "origem": "aba 'Base de Dados'",
+        "abas": [
+          "Instruções",
+          "2027",
+          "Pretensões 2027",
+          "Base de Dados",
+          "MODELO_FICHA",
+          "Listas",
+          "C01"
+        ],
+        "tentativas": [
+          {
+            "aba": "Base de Dados",
+            "modo": "nativo",
+            "contratos": 39
+          }
+        ],
+        "contratos": 39,
+        "motivo": null,
+        "detalhe": {
+          "linhas_com_conteudo": 39,
+          "rejeitadas": {
+            "sem_contratada": 0,
+            "sem_objeto": 0,
+            "vazias": 958
+          }
+        }
+      },
+      {
+        "secretaria": "FUNCULTURAL",
+        "arquivo": "FUNCULTURAL_Controle_Contratos_2027.xlsx",
+        "caminho": "CONTRATOS _2027/FUNCULTURAL_Controle_Contratos_2027.xlsx",
+        "ano_arquivo": 2027,
+        "origem": null,
+        "abas": [
+          "Instruções",
+          "2027",
+          "Pretensões 2027",
+          "Base de Dados",
+          "MODELO_FICHA",
+          "Listas",
+          "C01"
+        ],
+        "tentativas": [
+          {
+            "aba": "Base de Dados",
+            "modo": "nativo",
+            "contratos": 0
+          },
+          {
+            "aba": "2027",
+            "modo": "cabeçalho",
+            "contratos": 0
+          },
+          {
+            "aba": "Instruções",
+            "modo": "cabeçalho",
+            "contratos": 0
+          },
+          {
+            "aba": "Pretensões 2027",
+            "modo": "cabeçalho",
+            "contratos": 0
+          },
+          {
+            "aba": "MODELO_FICHA",
+            "modo": "cabeçalho",
+            "contratos": 0
+          },
+          {
+            "aba": "Listas",
+            "modo": "cabeçalho",
+            "contratos": 0
+          },
+          {
+            "aba": "C01",
+            "modo": "cabeçalho",
+            "contratos": 0
+          }
+        ],
+        "contratos": 0,
+        "motivo": "A aba 'Base de Dados' é montada por fórmulas e o arquivo foi salvo sem recálculo (427 fórmulas sem valor). Abra a planilha no Excel, salve e envie novamente. Abas testadas: 'Base de Dados' (0), '2027' (0), 'Instruções' (0), 'Pretensões 2027' (0), 'MODELO_FICHA' (0), 'Listas' (0), 'C01' (0).",
+        "detalhe": {
+          "base_de_dados": {
+            "linhas_com_conteudo": 0,
+            "rejeitadas": {
+              "sem_contratada": 0,
+              "sem_objeto": 0,
+              "vazias": 997
+            },
+            "formulas_sem_valor": 427
+          }
+        }
+      },
+      {
+        "secretaria": "PGM",
+        "arquivo": "PGM_Controle_Contratos_2027.xlsx",
+        "caminho": "CONTRATOS _2027/PGM_Controle_Contratos_2027.xlsx",
+        "ano_arquivo": 2027,
+        "origem": "aba 'Base de Dados'",
+        "abas": [
+          "Instruções",
+          "2027",
+          "Pretensões 2027",
+          "Base de Dados",
+          "MODELO_FICHA",
+          "C01",
+          "Listas"
+        ],
+        "tentativas": [
+          {
+            "aba": "Base de Dados",
+            "modo": "nativo",
+            "contratos": 4
+          }
+        ],
+        "contratos": 4,
+        "motivo": null,
+        "detalhe": {
+          "linhas_com_conteudo": 7,
+          "rejeitadas": {
+            "sem_contratada": 0,
+            "sem_objeto": 3,
+            "vazias": 990
+          }
+        }
+      },
+      {
+        "secretaria": "SECOM",
+        "arquivo": "SECOM_Controle_Contratos_2027.xlsx",
+        "caminho": "CONTRATOS _2027/SECOM_Controle_Contratos_2027.xlsx",
+        "ano_arquivo": 2027,
+        "origem": "aba 'Base de Dados'",
+        "abas": [
+          "Instruções",
+          "2027",
+          "Pretensões 2027",
+          "Base de Dados",
+          "MODELO_FICHA",
+          "C04 - MOVX MARKETING E TECNOLOG",
+          "C03 - ANA C DE OLIVEIRA BARROS",
+          "C02 - EDITORA DIÁRIO DA AMAZÔNI",
+          "C01 - Pen6 LTDA",
+          "C01",
+          "Listas"
+        ],
+        "tentativas": [
+          {
+            "aba": "Base de Dados",
+            "modo": "nativo",
+            "contratos": 4
+          }
+        ],
+        "contratos": 4,
+        "motivo": null,
+        "detalhe": {
+          "linhas_com_conteudo": 4,
+          "rejeitadas": {
+            "sem_contratada": 0,
+            "sem_objeto": 0,
+            "vazias": 993
+          }
+        }
+      },
+      {
+        "secretaria": "SEINFRA",
+        "arquivo": "SEINFRA_Controle_Contratos_2027.xlsx",
+        "caminho": "CONTRATOS _2027/SEINFRA_Controle_Contratos_2027.xlsx",
+        "ano_arquivo": 2027,
+        "origem": "aba 'Base de Dados'",
+        "abas": [
+          "Instruções",
+          "2027",
+          "Pretensões 2027",
+          "Base de Dados",
+          "MODELO_FICHA",
+          "Listas",
+          "C01",
+          "C02",
+          "C03",
+          "C04",
+          "C05",
+          "C06",
+          "C07",
+          "C08",
+          "C09",
+          "C10",
+          "C11",
+          "C012"
+        ],
+        "tentativas": [
+          {
+            "aba": "Base de Dados",
+            "modo": "nativo",
+            "contratos": 21
+          }
+        ],
+        "contratos": 21,
+        "motivo": null,
+        "detalhe": {
+          "linhas_com_conteudo": 21,
+          "rejeitadas": {
+            "sem_contratada": 0,
+            "sem_objeto": 0,
+            "vazias": 976
+          }
+        }
+      },
+      {
+        "secretaria": "SEMA",
+        "arquivo": "SEMA_Controle_Contratos_2027.xlsx",
+        "caminho": "CONTRATOS _2027/SEMA_Controle_Contratos_2027.xlsx",
+        "ano_arquivo": 2027,
+        "origem": "aba 'Base de Dados'",
+        "abas": [
+          "Instruções",
+          "2027",
+          "Pretensões 2027",
+          "Base de Dados",
+          "MODELO_FICHA",
+          "Listas",
+          "C01"
+        ],
+        "tentativas": [
+          {
+            "aba": "Base de Dados",
+            "modo": "nativo",
+            "contratos": 10
+          }
+        ],
+        "contratos": 10,
+        "motivo": null,
+        "detalhe": {
+          "linhas_com_conteudo": 10,
+          "rejeitadas": {
+            "sem_contratada": 0,
+            "sem_objeto": 0,
+            "vazias": 987
+          }
+        }
+      },
+      {
+        "secretaria": "SEMAD",
+        "arquivo": "SEMAD_Controle_Contratos_2027.xlsx",
+        "caminho": "CONTRATOS _2027/SEMAD_Controle_Contratos_2027.xlsx",
+        "ano_arquivo": 2027,
+        "origem": "aba 'Base de Dados'",
+        "abas": [
+          "Instruções",
+          "2027",
+          "Pretensões 2027",
+          "Base de Dados",
+          "MODELO_FICHA",
+          "Listas",
+          "C01"
+        ],
+        "tentativas": [
+          {
+            "aba": "Base de Dados",
+            "modo": "nativo",
+            "contratos": 23
+          }
+        ],
+        "contratos": 23,
+        "motivo": null,
+        "detalhe": {
+          "linhas_com_conteudo": 23,
+          "rejeitadas": {
+            "sem_contratada": 0,
+            "sem_objeto": 0,
+            "vazias": 974
+          }
+        }
+      },
+      {
+        "secretaria": "SEMAGRIC",
+        "arquivo": "SEMAGRIC_Controle_Contratos_2027.xlsx",
+        "caminho": "CONTRATOS _2027/SEMAGRIC_Controle_Contratos_2027.xlsx",
+        "ano_arquivo": 2027,
+        "origem": "aba 'Base de Dados'",
+        "abas": [
+          "Instruções",
+          "2027",
+          "Pretensões 2027",
+          "Base de Dados",
+          "MODELO_FICHA",
+          "AGRONET",
+          "UZZIPAY",
+          "Listas",
+          "FUPEN",
+          "GALPÃO EXTREMA",
+          "CISAN"
+        ],
+        "tentativas": [
+          {
+            "aba": "Base de Dados",
+            "modo": "nativo",
+            "contratos": 9
+          }
+        ],
+        "contratos": 9,
+        "motivo": null,
+        "detalhe": {
+          "linhas_com_conteudo": 9,
+          "rejeitadas": {
+            "sem_contratada": 0,
+            "sem_objeto": 0,
+            "vazias": 988
+          }
+        }
+      },
+      {
+        "secretaria": "SEMDEC",
+        "arquivo": "SEMDEC_Controle_Contratos_2027.xlsx",
+        "caminho": "CONTRATOS _2027/SEMDEC_Controle_Contratos_2027.xlsx",
+        "ano_arquivo": 2027,
+        "origem": "aba 'Base de Dados'",
+        "abas": [
+          "Instruções",
+          "2027",
+          "Pretensões 2027",
+          "Base de Dados",
+          "MODELO_FICHA",
+          "Listas",
+          "C01"
+        ],
+        "tentativas": [
+          {
+            "aba": "Base de Dados",
+            "modo": "nativo",
+            "contratos": 12
+          }
+        ],
+        "contratos": 12,
+        "motivo": null,
+        "detalhe": {
+          "linhas_com_conteudo": 12,
+          "rejeitadas": {
+            "sem_contratada": 0,
+            "sem_objeto": 0,
+            "vazias": 985
+          }
+        }
+      },
+      {
+        "secretaria": "SEMEC",
+        "arquivo": "SEMEC_Controle_Contratos_2027.xlsx",
+        "caminho": "CONTRATOS _2027/SEMEC_Controle_Contratos_2027.xlsx",
+        "ano_arquivo": 2027,
+        "origem": "aba 'Base de Dados'",
+        "abas": [
+          "Instruções",
+          "2027",
+          "Pretensões 2027",
+          "Base de Dados",
+          "MODELO_FICHA",
+          "Listas",
+          "C01",
+          "C02"
+        ],
+        "tentativas": [
+          {
+            "aba": "Base de Dados",
+            "modo": "nativo",
+            "contratos": 20
+          }
+        ],
+        "contratos": 20,
+        "motivo": null,
+        "detalhe": {
+          "linhas_com_conteudo": 20,
+          "rejeitadas": {
+            "sem_contratada": 0,
+            "sem_objeto": 0,
+            "vazias": 977
+          }
+        }
+      },
+      {
+        "secretaria": "SEMED",
+        "arquivo": "SEMED_Controle_Contratos_2027.xlsx",
+        "caminho": "CONTRATOS _2027/SEMED_Controle_Contratos_2027.xlsx",
+        "ano_arquivo": 2027,
+        "origem": "aba 'Base de Dados'",
+        "abas": [
+          "Instruções",
+          "2027",
+          "Pretensões 2027",
+          "Base de Dados",
+          "MODELO_FICHA",
+          "Listas",
+          "C01"
+        ],
+        "tentativas": [
+          {
+            "aba": "Base de Dados",
+            "modo": "nativo",
+            "contratos": 76
+          }
+        ],
+        "contratos": 76,
+        "motivo": null,
+        "detalhe": {
+          "linhas_com_conteudo": 88,
+          "rejeitadas": {
+            "sem_contratada": 4,
+            "sem_objeto": 8,
+            "vazias": 909
+          }
+        }
+      },
+      {
+        "secretaria": "SEMIAS",
+        "arquivo": "SEMIAS_Controle_Contratos_2027.xlsx",
+        "caminho": "CONTRATOS _2027/SEMIAS_Controle_Contratos_2027.xlsx",
+        "ano_arquivo": 2027,
+        "origem": "aba 'Base de Dados'",
+        "abas": [
+          "Instruções",
+          "2027",
+          "Pretensões 2027",
+          "Base de Dados",
+          "MODELO_FICHA",
+          "Listas",
+          "C01"
+        ],
+        "tentativas": [
+          {
+            "aba": "Base de Dados",
+            "modo": "nativo",
+            "contratos": 35
+          }
+        ],
+        "contratos": 35,
+        "motivo": null,
+        "detalhe": {
+          "linhas_com_conteudo": 35,
+          "rejeitadas": {
+            "sem_contratada": 0,
+            "sem_objeto": 0,
+            "vazias": 962
+          }
+        }
+      },
+      {
+        "secretaria": "SEMTEL",
+        "arquivo": "SEMTEL_Controle_Contratos_2027.xlsx",
+        "caminho": "CONTRATOS _2027/SEMTEL_Controle_Contratos_2027.xlsx",
+        "ano_arquivo": 2027,
+        "origem": "aba 'Base de Dados'",
+        "abas": [
+          "Instruções",
+          "2027",
+          "Pretensões 2027",
+          "Base de Dados",
+          "MODELO_FICHA",
+          "C01",
+          "Listas"
+        ],
+        "tentativas": [
+          {
+            "aba": "Base de Dados",
+            "modo": "nativo",
+            "contratos": 8
+          }
+        ],
+        "contratos": 8,
+        "motivo": null,
+        "detalhe": {
+          "linhas_com_conteudo": 9,
+          "rejeitadas": {
+            "sem_contratada": 1,
+            "sem_objeto": 0,
+            "vazias": 988
+          }
+        }
+      },
+      {
+        "secretaria": "SEMTRAN",
+        "arquivo": "SEMTRAN_Controle_Contratos_2027.xlsx",
+        "caminho": "CONTRATOS _2027/SEMTRAN_Controle_Contratos_2027.xlsx",
+        "ano_arquivo": 2027,
+        "origem": "aba 'Base de Dados'",
+        "abas": [
+          "Instruções",
+          "2027",
+          "Pretensões 2027",
+          "Base de Dados",
+          "MODELO_FICHA",
+          "Listas",
+          "C01"
+        ],
+        "tentativas": [
+          {
+            "aba": "Base de Dados",
+            "modo": "nativo",
+            "contratos": 9
+          }
+        ],
+        "contratos": 9,
+        "motivo": null,
+        "detalhe": {
+          "linhas_com_conteudo": 12,
+          "rejeitadas": {
+            "sem_contratada": 3,
+            "sem_objeto": 0,
+            "vazias": 985
+          }
+        }
+      },
+      {
+        "secretaria": "SEMUSA",
+        "arquivo": "SEMUSA_Controle_Contratos_2027.xlsx",
+        "caminho": "CONTRATOS _2027/SEMUSA_Controle_Contratos_2027.xlsx",
+        "ano_arquivo": 2027,
+        "origem": "aba 'Base de Dados'",
+        "abas": [
+          "Instruções",
+          "2027",
+          "Pretensões 2027",
+          "Base de Dados",
+          "MODELO_FICHA",
+          "C01",
+          "Listas"
+        ],
+        "tentativas": [
+          {
+            "aba": "Base de Dados",
+            "modo": "nativo",
+            "contratos": 87
+          }
+        ],
+        "contratos": 87,
+        "motivo": null,
+        "detalhe": {
+          "linhas_com_conteudo": 87,
+          "rejeitadas": {
+            "sem_contratada": 0,
+            "sem_objeto": 0,
+            "vazias": 910
+          }
+        }
+      },
+      {
+        "secretaria": "SGOV",
+        "arquivo": "SGOV_Controle_Contratos_2027.xlsx",
+        "caminho": "CONTRATOS _2027/SGOV_Controle_Contratos_2027.xlsx",
+        "ano_arquivo": 2027,
+        "origem": "aba 'Base de Dados'",
+        "abas": [
+          "Instruções",
+          "2027",
+          "Pretensões 2027",
+          "Base de Dados",
+          "MODELO_FICHA",
+          "Listas",
+          "C01"
+        ],
+        "tentativas": [
+          {
+            "aba": "Base de Dados",
+            "modo": "nativo",
+            "contratos": 19
+          }
+        ],
+        "contratos": 19,
+        "motivo": null,
+        "detalhe": {
+          "linhas_com_conteudo": 19,
+          "rejeitadas": {
+            "sem_contratada": 0,
+            "sem_objeto": 0,
+            "vazias": 978
+          }
+        }
+      },
+      {
+        "secretaria": "SMCL",
+        "arquivo": "SMCL_Controle_Contratos_2027.xlsx",
+        "caminho": "CONTRATOS _2027/SMCL_Controle_Contratos_2027.xlsx",
+        "ano_arquivo": 2027,
+        "origem": "aba 'Base de Dados'",
+        "abas": [
+          "Instruções",
+          "2027",
+          "Pretensões 2027",
+          "Base de Dados",
+          "MODELO_FICHA",
+          "Listas",
+          "C01"
+        ],
+        "tentativas": [
+          {
+            "aba": "Base de Dados",
+            "modo": "nativo",
+            "contratos": 10
+          }
+        ],
+        "contratos": 10,
+        "motivo": null,
+        "detalhe": {
+          "linhas_com_conteudo": 15,
+          "rejeitadas": {
+            "sem_contratada": 5,
+            "sem_objeto": 0,
+            "vazias": 982
+          }
+        }
+      },
+      {
+        "secretaria": "SMD",
+        "arquivo": "SMD_Controle_Contratos_2027.xlsx",
+        "caminho": "CONTRATOS _2027/SMD_Controle_Contratos_2027.xlsx",
+        "ano_arquivo": 2027,
+        "origem": "aba 'Base de Dados'",
+        "abas": [
+          "Instruções",
+          "2027",
+          "Pretensões 2027",
+          "Base de Dados",
+          "MODELO_FICHA",
+          "C01",
+          "Listas"
+        ],
+        "tentativas": [
+          {
+            "aba": "Base de Dados",
+            "modo": "nativo",
+            "contratos": 8
+          }
+        ],
+        "contratos": 8,
+        "motivo": null,
+        "detalhe": {
+          "linhas_com_conteudo": 8,
+          "rejeitadas": {
+            "sem_contratada": 0,
+            "sem_objeto": 0,
+            "vazias": 989
+          }
+        }
+      },
+      {
+        "secretaria": "SMPDC",
+        "arquivo": "SMPDC_Controle_Contratos_2027.xlsx",
+        "caminho": "CONTRATOS _2027/SMPDC_Controle_Contratos_2027.xlsx",
+        "ano_arquivo": 2027,
+        "origem": null,
+        "abas": [
+          "Instruções",
+          "2027",
+          "Pretensões 2027",
+          "Base de Dados",
+          "C01",
+          "MODELO_FICHA",
+          "Listas"
+        ],
+        "tentativas": [
+          {
+            "aba": "Base de Dados",
+            "modo": "nativo",
+            "contratos": 0
+          },
+          {
+            "aba": "2027",
+            "modo": "cabeçalho",
+            "contratos": 0
+          },
+          {
+            "aba": "Instruções",
+            "modo": "cabeçalho",
+            "contratos": 0
+          },
+          {
+            "aba": "Pretensões 2027",
+            "modo": "cabeçalho",
+            "contratos": 0
+          },
+          {
+            "aba": "C01",
+            "modo": "cabeçalho",
+            "contratos": 0
+          },
+          {
+            "aba": "MODELO_FICHA",
+            "modo": "cabeçalho",
+            "contratos": 0
+          },
+          {
+            "aba": "Listas",
+            "modo": "cabeçalho",
+            "contratos": 0
+          }
+        ],
+        "contratos": 0,
+        "motivo": "A aba 'Base de Dados' é montada por fórmulas e o arquivo foi salvo sem recálculo (427 fórmulas sem valor). Abra a planilha no Excel, salve e envie novamente. Abas testadas: 'Base de Dados' (0), '2027' (0), 'Instruções' (0), 'Pretensões 2027' (0), 'C01' (0), 'MODELO_FICHA' (0), 'Listas' (0).",
+        "detalhe": {
+          "base_de_dados": {
+            "linhas_com_conteudo": 0,
+            "rejeitadas": {
+              "sem_contratada": 0,
+              "sem_objeto": 0,
+              "vazias": 997
+            },
+            "formulas_sem_valor": 427
+          }
+        }
+      },
+      {
+        "secretaria": "SMTI",
+        "arquivo": "SMTI_Controle_Contratos_2027.xlsx",
+        "caminho": "CONTRATOS _2027/SMTI_Controle_Contratos_2027.xlsx",
+        "ano_arquivo": 2027,
+        "origem": "aba 'Base de Dados'",
+        "abas": [
+          "Instruções",
+          "2027",
+          "Pretensões 2027",
+          "Base de Dados",
+          "MODELO_FICHA",
+          "Listas",
+          "C01"
+        ],
+        "tentativas": [
+          {
+            "aba": "Base de Dados",
+            "modo": "nativo",
+            "contratos": 16
+          }
+        ],
+        "contratos": 16,
+        "motivo": null,
+        "detalhe": {
+          "linhas_com_conteudo": 17,
+          "rejeitadas": {
+            "sem_contratada": 1,
+            "sem_objeto": 0,
+            "vazias": 980
+          }
+        }
+      }
+    ],
+    "avisos": [
+      "'FUNCULTURAL_Controle_Contratos_2027.xlsx' não trouxe nenhum contrato. A aba 'Base de Dados' é montada por fórmulas e o arquivo foi salvo sem recálculo (427 fórmulas sem valor). Abra a planilha no Excel, salve e envie novamente. Abas testadas: 'Base de Dados' (0), '2027' (0), 'Instruções' (0), 'Pretensões 2027' (0), 'MODELO_FICHA' (0), 'Listas' (0), 'C01' (0).",
+      "'SMPDC_Controle_Contratos_2027.xlsx' não trouxe nenhum contrato. A aba 'Base de Dados' é montada por fórmulas e o arquivo foi salvo sem recálculo (427 fórmulas sem valor). Abra a planilha no Excel, salve e envie novamente. Abas testadas: 'Base de Dados' (0), '2027' (0), 'Instruções' (0), 'Pretensões 2027' (0), 'C01' (0), 'MODELO_FICHA' (0), 'Listas' (0)."
+    ],
+    "auditoria_arquivos": [],
+    "alertas_qualidade": [
+      "O KPI 'A suplementar' soma R$ 423.575.242,65 em 320 contrato(s) de ARDP, CGM, PGM, SEINFRA, SEMA, SEMAD, SEMAGRIC, SEMDEC, SEMEC, SEMED, SEMIAS, SEMTEL, SEMTRAN, SEMUSA, SGOV, SMCL, SMD, SMTI apenas porque a coluna 'Saldo Orçamentário da Unidade' está zerada na planilha — nesse caso a suplementação repete o saldo a empenhar. Preencha essa coluna para que o valor faça sentido."
+    ],
+    "pasta_contratos": "CONTRATOS _2027",
+    "data_referencia": "2026-08-19",
+    "pacote": "CONTRATOS _2027-20260818T130350Z-1-001.zip"
+  }
+}

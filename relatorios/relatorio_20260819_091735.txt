@@ -1,0 +1,30 @@
+SIGO — RELATÓRIO DE ATUALIZAÇÃO DE DADOS
+==============================================================
+Data da carga : 19/08/2026 às 09:17:35
+Pacote        : pacote_exemplo_2027.zip
+Exercício     : 2027
+Pasta lida    : CONTRATOS_2027
+Total         : 28 contrato(s) em 4 secretaria(s)
+
+SECRETARIAS
+--------------------------------------------------------------
+[OK]  SEMAD — 7 contrato(s)
+          arquivo: SEMAD_Controle_Contratos_2027.xlsx
+          origem : aba 'Base de Dados'
+
+[OK]  SEMEC — 7 contrato(s)
+          arquivo: SEMEC_Controle_Contratos_2027.xlsx
+          origem : aba 'Base de Dados'
+
+[OK]  SEMED — 7 contrato(s)
+          arquivo: SEMED_Controle_Contratos_2027.xlsx
+          origem : aba 'Base de Dados'
+
+[OK]  SEMUSA — 7 contrato(s)
+          arquivo: SEMUSA_Controle_Contratos_2027.xlsx
+          origem : aba 'Base de Dados'
+
+--------------------------------------------------------------
+Secretarias sem contratos no painel não indicam falha do sistema:
+normalmente a planilha ainda não foi preenchida pela equipe
+responsável. O campo 'motivo' acima esclarece cada caso.

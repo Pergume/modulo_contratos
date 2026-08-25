@@ -1,0 +1,113 @@
+SIGO — RELATÓRIO DE ATUALIZAÇÃO DE DADOS
+==============================================================
+Data da carga : 24/08/2026 às 08:07:47
+Pacote        : CONTRATOS _2027-20260821T121110Z-1-001.zip
+Exercício     : 2027
+Pasta lida    : CONTRATOS _2027
+Total         : 413 contrato(s) em 20 secretaria(s)
+
+SECRETARIAS
+--------------------------------------------------------------
+[OK]  ARDP — 2 contrato(s)
+          arquivo: ARDP_Controle_Contratos_2027.xlsx
+          origem : aba 'Base de Dados'
+
+[OK]  CGM — 1 contrato(s)
+          arquivo: CGM_Controle_Contratos_2027.xlsx
+          origem : aba 'Base de Dados'
+
+[OK]  CME — 39 contrato(s)
+          arquivo: CME_Controle_Contratos_2027.xlsx
+          origem : aba 'Base de Dados'
+
+[--]  FUNCULTURAL — 0 contrato(s)
+          arquivo: FUNCULTURAL_Controle_Contratos_2027.xlsx
+          motivo : A aba 'Base de Dados' é montada por fórmulas e o arquivo foi salvo sem recálculo (427 fórmulas sem valor). Abra a planilha no Excel, salve e envie novamente. Abas testadas: 'Base de Dados' (0), '2027' (0), 'Instruções' (0), 'Pretensões 2027' (0), 'MODELO_FICHA' (0), 'Listas' (0), 'C01' (0).
+          abas do arquivo: Instruções, 2027, Pretensões 2027, Base de Dados, MODELO_FICHA, Listas, C01
+
+[OK]  PGM — 4 contrato(s)
+          arquivo: PGM_Controle_Contratos_2027.xlsx
+          origem : aba 'Base de Dados'
+
+[OK]  SECOM — 4 contrato(s)
+          arquivo: SECOM_Controle_Contratos_2027.xlsx
+          origem : aba 'Base de Dados'
+
+[OK]  SEINFRA — 21 contrato(s)
+          arquivo: SEINFRA_Controle_Contratos_2027.xlsx
+          origem : aba 'Base de Dados'
+
+[OK]  SEMA — 10 contrato(s)
+          arquivo: SEMA_Controle_Contratos_2027.xlsx
+          origem : aba 'Base de Dados'
+
+[OK]  SEMAD — 23 contrato(s)
+          arquivo: SEMAD_Controle_Contratos_2027.xlsx
+          origem : aba 'Base de Dados'
+
+[OK]  SEMAGRIC — 9 contrato(s)
+          arquivo: SEMAGRIC_Controle_Contratos_2027.xlsx
+          origem : aba 'Base de Dados'
+
+[OK]  SEMDEC — 12 contrato(s)
+          arquivo: SEMDEC_Controle_Contratos_2027.xlsx
+          origem : aba 'Base de Dados'
+
+[OK]  SEMEC — 20 contrato(s)
+          arquivo: SEMEC_Controle_Contratos_2027.xlsx
+          origem : aba 'Base de Dados'
+
+[OK]  SEMED — 76 contrato(s)
+          arquivo: SEMED_Controle_Contratos_2027.xlsx
+          origem : aba 'Base de Dados'
+
+[OK]  SEMIAS — 35 contrato(s)
+          arquivo: SEMIAS_Controle_Contratos_2027.xlsx
+          origem : aba 'Base de Dados'
+
+[OK]  SEMTEL — 8 contrato(s)
+          arquivo: SEMTEL_Controle_Contratos_2027.xlsx
+          origem : aba 'Base de Dados'
+
+[OK]  SEMTRAN — 9 contrato(s)
+          arquivo: SEMTRAN_Controle_Contratos_2027.xlsx
+          origem : aba 'Base de Dados'
+
+[OK]  SEMUSA — 87 contrato(s)
+          arquivo: SEMUSA_Controle_Contratos_2027.xlsx
+          origem : aba 'Base de Dados'
+
+[OK]  SGOV — 19 contrato(s)
+          arquivo: SGOV_Controle_Contratos_2027.xlsx
+          origem : aba 'Base de Dados'
+
+[OK]  SMCL — 10 contrato(s)
+          arquivo: SMCL_Controle_Contratos_2027.xlsx
+          origem : aba 'Base de Dados'
+
+[OK]  SMD — 8 contrato(s)
+          arquivo: SMD_Controle_Contratos_2027.xlsx
+          origem : aba 'Base de Dados'
+
+[--]  SMPDC — 0 contrato(s)
+          arquivo: SMPDC_Controle_Contratos_2027.xlsx
+          motivo : A aba 'Base de Dados' é montada por fórmulas e o arquivo foi salvo sem recálculo (427 fórmulas sem valor). Abra a planilha no Excel, salve e envie novamente. Abas testadas: 'Base de Dados' (0), '2027' (0), 'Instruções' (0), 'Pretensões 2027' (0), 'C01' (0), 'MODELO_FICHA' (0), 'Listas' (0).
+          abas do arquivo: Instruções, 2027, Pretensões 2027, Base de Dados, C01, MODELO_FICHA, Listas
+
+[OK]  SMTI — 16 contrato(s)
+          arquivo: SMTI_Controle_Contratos_2027.xlsx
+          origem : aba 'Base de Dados'
+
+ATENÇÃO — LEITURA DOS INDICADORES
+--------------------------------------------------------------
+  ! O KPI 'A suplementar' soma R$ 423.575.242,65 em 320 contrato(s) de ARDP, CGM, PGM, SEINFRA, SEMA, SEMAD, SEMAGRIC, SEMDEC, SEMEC, SEMED, SEMIAS, SEMTEL, SEMTRAN, SEMUSA, SGOV, SMCL, SMD, SMTI apenas porque a coluna 'Saldo Orçamentário da Unidade' está zerada na planilha — nesse caso a suplementação repete o saldo a empenhar. Preencha essa coluna para que o valor faça sentido.
+
+AVISOS
+--------------------------------------------------------------
+  - 'FUNCULTURAL_Controle_Contratos_2027.xlsx' não trouxe nenhum contrato. A aba 'Base de Dados' é montada por fórmulas e o arquivo foi salvo sem recálculo (427 fórmulas sem valor). Abra a planilha no Excel, salve e envie novamente. Abas testadas: 'Base de Dados' (0), '2027' (0), 'Instruções' (0), 'Pretensões 2027' (0), 'MODELO_FICHA' (0), 'Listas' (0), 'C01' (0).
+  - 'SMPDC_Controle_Contratos_2027.xlsx' não trouxe nenhum contrato. A aba 'Base de Dados' é montada por fórmulas e o arquivo foi salvo sem recálculo (427 fórmulas sem valor). Abra a planilha no Excel, salve e envie novamente. Abas testadas: 'Base de Dados' (0), '2027' (0), 'Instruções' (0), 'Pretensões 2027' (0), 'C01' (0), 'MODELO_FICHA' (0), 'Listas' (0).
+
+--------------------------------------------------------------
+Secretarias sem contratos no painel não indicam falha do sistema:
+normalmente a planilha ainda não foi preenchida pela equipe
+responsável. O campo 'motivo' acima esclarece cada caso.

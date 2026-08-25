@@ -1,0 +1,8 @@
+# Arquivos do Windows
+*.ico
+*.bat
+*.sh
+
+# Cache do python
+__pycache__/
+*.pyc 

@@ -1,0 +1,137 @@
+{
+  "id": "relatorio_20260819_091735",
+  "momento": "2026-08-19T09:17:35",
+  "momento_legivel": "19/08/2026 às 09:17",
+  "pacote": "pacote_exemplo_2027.zip",
+  "exercicio": 2027,
+  "total_contratos": 28,
+  "secretarias_com_dados": 4,
+  "secretarias_sem_dados": [],
+  "diagnostico": {
+    "exercicio": 2027,
+    "total_contratos": 28,
+    "secretarias": [
+      "SEMAD",
+      "SEMEC",
+      "SEMED",
+      "SEMUSA"
+    ],
+    "secretarias_sem_dados": [],
+    "por_planilha": [
+      {
+        "secretaria": "SEMAD",
+        "arquivo": "SEMAD_Controle_Contratos_2027.xlsx",
+        "caminho": "Envio/CONTRATOS_2027/SEMAD_Controle_Contratos_2027.xlsx",
+        "ano_arquivo": 2027,
+        "origem": "aba 'Base de Dados'",
+        "abas": [
+          "Base de Dados"
+        ],
+        "tentativas": [
+          {
+            "aba": "Base de Dados",
+            "modo": "nativo",
+            "contratos": 7
+          }
+        ],
+        "contratos": 7,
+        "motivo": null,
+        "detalhe": {
+          "linhas_com_conteudo": 7,
+          "rejeitadas": {
+            "sem_contratada": 0,
+            "sem_objeto": 0,
+            "vazias": 0
+          }
+        }
+      },
+      {
+        "secretaria": "SEMEC",
+        "arquivo": "SEMEC_Controle_Contratos_2027.xlsx",
+        "caminho": "Envio/CONTRATOS_2027/SEMEC_Controle_Contratos_2027.xlsx",
+        "ano_arquivo": 2027,
+        "origem": "aba 'Base de Dados'",
+        "abas": [
+          "Base de Dados"
+        ],
+        "tentativas": [
+          {
+            "aba": "Base de Dados",
+            "modo": "nativo",
+            "contratos": 7
+          }
+        ],
+        "contratos": 7,
+        "motivo": null,
+        "detalhe": {
+          "linhas_com_conteudo": 7,
+          "rejeitadas": {
+            "sem_contratada": 0,
+            "sem_objeto": 0,
+            "vazias": 0
+          }
+        }
+      },
+      {
+        "secretaria": "SEMED",
+        "arquivo": "SEMED_Controle_Contratos_2027.xlsx",
+        "caminho": "Envio/CONTRATOS_2027/SEMED_Controle_Contratos_2027.xlsx",
+        "ano_arquivo": 2027,
+        "origem": "aba 'Base de Dados'",
+        "abas": [
+          "Base de Dados"
+        ],
+        "tentativas": [
+          {
+            "aba": "Base de Dados",
+            "modo": "nativo",
+            "contratos": 7
+          }
+        ],
+        "contratos": 7,
+        "motivo": null,
+        "detalhe": {
+          "linhas_com_conteudo": 7,
+          "rejeitadas": {
+            "sem_contratada": 0,
+            "sem_objeto": 0,
+            "vazias": 0
+          }
+        }
+      },
+      {
+        "secretaria": "SEMUSA",
+        "arquivo": "SEMUSA_Controle_Contratos_2027.xlsx",
+        "caminho": "Envio/CONTRATOS_2027/SEMUSA_Controle_Contratos_2027.xlsx",
+        "ano_arquivo": 2027,
+        "origem": "aba 'Base de Dados'",
+        "abas": [
+          "Base de Dados"
+        ],
+        "tentativas": [
+          {
+            "aba": "Base de Dados",
+            "modo": "nativo",
+            "contratos": 7
+          }
+        ],
+        "contratos": 7,
+        "motivo": null,
+        "detalhe": {
+          "linhas_com_conteudo": 7,
+          "rejeitadas": {
+            "sem_contratada": 0,
+            "sem_objeto": 0,
+            "vazias": 0
+          }
+        }
+      }
+    ],
+    "avisos": [],
+    "auditoria_arquivos": [],
+    "alertas_qualidade": [],
+    "pasta_contratos": "CONTRATOS_2027",
+    "data_referencia": "2026-08-19",
+    "pacote": "pacote_exemplo_2027.zip"
+  }
+}
